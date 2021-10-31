@@ -1366,7 +1366,6 @@ color: #777;
         z-index: 1;
         animation: change-background 10s linear infinite;
     }
- 
     .discount .image::before {
         content: "";
         position: absolute;
@@ -1400,7 +1399,6 @@ color: #777;
     .discount .form textarea .input {
         resize: none;
         height: 200px;
-
     }
     .discount .form .input:focus {
 outline: none;
@@ -1413,7 +1411,7 @@ caret-color: var(--main-color) ;
         background-color: var(--main-color);
         color: white;
         font-weight: bold;
-        font-size: 20px;
+        font-size: 21px;
         border: none;
         cursor: pointer;
         transition: var(--main-transition);
